@@ -9,7 +9,7 @@ class kad1rka:
 class Attributes(kad1rka):
     @property
     def contact(self) -> Tuple[str, str, str]:
-        discord  = "meldonyi'
+        discord  = "kadirka'
         telegram = "t.me/kadirmc"
         email = "kadirmc@mail.ru"
 
@@ -34,3 +34,10 @@ class Attributes(kad1rka):
 
 	return langs, specialities, environnement
 ```
+<h2 align="center">Skills </h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,ai,tensorflow,vscode,c,cs,cpp,visualstudio" />
+  </a>
+</p>
