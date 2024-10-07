@@ -27,7 +27,7 @@ class Attributes(kad1rka):
         langs = {
             'expert'      : ['python'],
             'intermediate': ['c#'],
-            'learning'    : ['c', 'c++']
+            'learning'    : ['c', 'c++', 'java']
         }
         specialities  = ['back-end developer', 'ai engineer']
 	environnement = ['vscode', 'vs']
