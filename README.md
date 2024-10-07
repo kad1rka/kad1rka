@@ -38,6 +38,6 @@ class Attributes(kad1rka):
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ai,tensorflow,vscode,c,cs,cpp,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=python,ai,tensorflow,vscode,c,cs,cpp,visualstudio,java,androidstudio" />
   </a>
 </p>
