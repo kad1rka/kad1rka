@@ -27,10 +27,10 @@ class Attributes(kad1rka):
         langs = {
             'expert'      : ['python'],
             'intermediate': ['c#'],
-            'learning'    : ['c', 'c++', 'java']
+            'learning'    : ['c', 'c++', 'java', 'javascript']
         }
         specialities  = ['back-end developer', 'ai engineer']
-	environnement = ['vscode', 'vs']
+	environnement = ['vscode', 'vs', 'intellij idea']
 
 	return langs, specialities, environnement
 ```
@@ -38,6 +38,6 @@ class Attributes(kad1rka):
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ai,tensorflow,vscode,c,cs,cpp,visualstudio,java,androidstudio,git" />
+    <img src="https://skillicons.dev/icons?i=python,ai,tensorflow,vscode,c,cs,cpp,visualstudio,java,androidstudio,git](https://skillicons.dev/icons?i=python,java,cs,javascript,fastapi,django,react,postgres,docker,git,linux"/>
   </a>
 </p>
