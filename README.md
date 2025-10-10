@@ -29,7 +29,7 @@ class Attributes(kad1rka):
             'intermediate': ['c#'],
             'learning'    : ['c', 'c++', 'java', 'javascript']
         }
-        specialities  = ['back-end developer', 'ai engineer']
+        specialities  = ['back-end developer']
 	environnement = ['vscode', 'vs', 'intellij idea']
 
 	return langs, specialities, environnement
